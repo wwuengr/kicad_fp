@@ -1,4 +1,6 @@
   (module conn_rasm722 (layer F.Cu)
+    (at 0 0)
+    (descr "Connector, 2.1/2.5mm barrel type")
     (fp_text reference CON102  (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
     )
